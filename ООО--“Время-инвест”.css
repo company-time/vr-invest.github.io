@@ -749,7 +749,7 @@
 
 @media (max-width: 575px) {
    .u-section-3 {
-    min-height: 854px;
+    min-height: 823px;
   }
 
   .u-section-3 .u-text-1 {
@@ -825,7 +825,8 @@
 
   .u-section-3 .u-text-2 {
     width: auto;
-    margin-top: -64px;
+    margin-top: -53px;
+    margin-bottom: 22px;
   }
 } .u-section-4 {
   background-image: url("images/Group130.png");
@@ -1340,6 +1341,14 @@
     margin-bottom: 58px;
   }
 
+  .u-section-5 .u-text-1 {
+    margin-left: auto;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-left: auto;
+  }
+
   .u-section-5 .u-map-1 {
     width: 502px;
     margin-right: 14px;
@@ -1383,9 +1392,8 @@
   .u-section-5 .u-group-elements-1 {
     width: 160px;
     min-height: 134px;
-    margin-top: -18px;
-    margin-right: 37px;
-    margin-left: auto;
+    margin-top: 20px;
+    margin-left: 85px;
   }
 
   .u-section-5 .u-text-4 {
@@ -1406,8 +1414,7 @@
     width: 177px;
     min-height: 110px;
     margin-top: 62px;
-    margin-right: 17px;
-    margin-left: auto;
+    margin-left: 88px;
   }
 
   .u-section-5 .u-text-8 {
@@ -1421,11 +1428,11 @@
 
   .u-section-5 .u-group-2 {
     margin-top: -110px;
-    margin-left: 34px;
+    margin-left: 26px;
   }
 
   .u-section-5 .u-group-3 {
     margin-top: -250px;
-    margin-left: 34px;
+    margin-left: 26px;
   }
 }
